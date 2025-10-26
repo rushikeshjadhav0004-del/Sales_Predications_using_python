@@ -1,12 +1,12 @@
-# Sales_Predications_using_python
-# 💹 Sales Prediction using Python
+
+#  Sales Prediction using Python
 
 This project is part of the **Oasis Infobyte Data Science Internship**.  
 The goal is to **predict product sales** based on the amount spent on various advertising channels such as **TV, Radio, and Newspaper** using **Machine Learning**.
 
 ---
 
-## 📘 Project Overview
+##  Project Overview
 
 Businesses often need to estimate how their advertising budgets affect sales.  
 This project builds a **Linear Regression model** that predicts sales based on advertising spend data.
@@ -19,7 +19,7 @@ This project builds a **Linear Regression model** that predicts sales based on a
 
 ---
 
-## 🧩 Dataset Information
+##  Dataset Information
 
 The dataset used is `advertising.csv`, which includes the following columns:
 
@@ -32,7 +32,7 @@ The dataset used is `advertising.csv`, which includes the following columns:
 
 ---
 
-## ⚙️ Technologies & Libraries Used
+##  Technologies & Libraries Used
 
 - **Python 3.x**
 - **NumPy**
@@ -43,7 +43,7 @@ The dataset used is `advertising.csv`, which includes the following columns:
 
 ---
 
-## 🚀 Steps in the Project
+##  Steps in the Project
 
 1. **Import Libraries**
 2. **Load and Explore the Dataset**
@@ -62,7 +62,7 @@ The model is evaluated using the following metrics:
 - **Mean Squared Error (MSE)**
 - **Root Mean Squared Error (RMSE)**
 ---
-## 📈 Visualization
+##  Visualization
 The project includes several visualizations such as:
 - **Correlation Heatmap**
 - **Actual vs Predicted Sales Scatter Plot**
