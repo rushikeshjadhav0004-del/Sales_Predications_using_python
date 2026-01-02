@@ -5,7 +5,7 @@ The goal is to **predict product sales** based on the amount spent on various ad
 
 ---
 
-##  Project Overview
+##  Project OvervieW
 
 Businesses often need to estimate how their advertising budgets affect sales.  
 This project builds a **Linear Regression model** that predicts sales based on advertising spend data.
